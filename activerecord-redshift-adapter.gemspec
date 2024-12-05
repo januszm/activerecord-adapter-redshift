@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.name = 'activerecord-redshift-adapter'
-  s.version = '8.0.0.beta2'
+  s.version = '8.0.0'
   s.summary = 'Amazon Redshift adapter for ActiveRecord '
   s.description = 'Amazon Redshift adapter for ActiveRecord 7+'
   s.license = 'MIT'
